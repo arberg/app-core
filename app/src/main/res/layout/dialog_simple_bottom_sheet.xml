@@ -20,4 +20,10 @@
         android:layout_height="wrap_content"
         android:hint="@string/click_me" />
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="9876543210" />
+
 </LinearLayout>
